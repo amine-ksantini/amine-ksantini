@@ -36,4 +36,4 @@ Je suis actuellement en deuxième année de **BUT Informatique** à l'IUT d'Orsa
 ---
 
 ### 📊 Mes Statistiques GitHub
-![Stats d'Amine](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_ICI&show_icons=true&theme=radical&hide_border=true)
+![Stats d'Amine](https://github-readme-stats.vercel.app/api?username=amine-ksantini&show_icons=true&theme=radical&hide_border=true)
