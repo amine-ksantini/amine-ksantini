@@ -29,7 +29,7 @@ Je suis actuellement en deuxième année de **BUT Informatique** à l'IUT d'Orsa
 ---
 
 ### 📫 Me contacter
-* 📧 **Email :** [XAminekst91@gmail.com](mailto:XAminekst91@gmail.com)
+* 📧 **Email :** [Aminekst91@gmail.com](mailto:XAminekst91@gmail.com)
 * 📍 **Localisation :** Île-de-France
 * 🚗 **Permis B** (Véhiculé)
 
